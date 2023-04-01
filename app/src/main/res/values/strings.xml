@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="title_app">Agenda</string>
+    <string name="search_icon">Search contact</string>
+    <string name="search_here_placeholder">Search here...</string>
+</resources>
